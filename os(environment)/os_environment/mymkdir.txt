@@ -1,0 +1,38 @@
+OS SFS shell
+os_shell> Disk image: DISK1.img
+Superblock magic: abadf001
+Number of blocks: 10241
+Volume name: HW3_DISK_IMG1
+HW3_DISK_IMG1, mounted
+os_shell> os_shell> ./	../	os/	congratulation_on_successful_ls/	Test/	
+os_shell> os_shell> ./	../	os/	congratulation_on_successful_ls/	Test/	
+os_shell> os_shell> ./	../	dummy/	
+os_shell> mkdir: dummy: Already exists
+os_shell> root directory inode 0 name 
+>  1 .
+>  1 ..
+>  6 os
+>  directory inode 6 name os
+> >  6 .
+> >  1 ..
+> >  8 hw3_submit
+> >  directory inode 8 name hw3_submit
+> > >  8 .
+> > >  6 ..
+> >  10 os_grade.txt
+> >  file inode 10 name os_grade.txt
+> > >  size 22 type 1 direct 11 
+>  12 congratulation_on_successful_ls
+>  directory inode 12 name congratulation_on_successful_ls
+> >  12 .
+> >  1 ..
+>  14 Test
+>  directory inode 14 name Test
+> >  14 .
+> >  1 ..
+> >  16 dummy
+> >  directory inode 16 name dummy
+> > >  16 .
+> > >  14 ..
+
+os_shell> bye

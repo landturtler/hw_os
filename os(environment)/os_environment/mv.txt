@@ -1,0 +1,33 @@
+OS SFS shell
+os_shell> Disk image: DISK1.img
+Superblock magic: abadf001
+Number of blocks: 10241
+Volume name: HW3_DISK_IMG1
+HW3_DISK_IMG1, mounted
+os_shell> os_shell> ./	../	os2015/	congratulation_on_successful_ls/	
+os_shell> mv: xx: No such file or directory
+os_shell> os_shell> ./	../	hw3_submit/	os_grade.txt	
+os_shell> mv: os_grade.txt: Already exists
+os_shell> os_shell> ./	../	hw3_submit/	osg	
+os_shell> os_shell> ./	../	os_grade.txt/	osg	
+os_shell> os_shell> ./	../	
+os_shell> root directory inode 0 name 
+>  1 .
+>  1 ..
+>  6 os2015
+>  directory inode 6 name os2015
+> >  6 .
+> >  1 ..
+> >  8 os_grade.txt
+> >  directory inode 8 name os_grade.txt
+> > >  8 .
+> > >  6 ..
+> >  10 osg
+> >  file inode 10 name osg
+> > >  size 22 type 1 direct 11 
+>  12 congratulation_on_successful_ls
+>  directory inode 12 name congratulation_on_successful_ls
+> >  12 .
+> >  1 ..
+
+os_shell> bye

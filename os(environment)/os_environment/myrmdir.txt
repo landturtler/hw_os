@@ -1,0 +1,26 @@
+OS SFS shell
+os_shell> Disk image: DISK1.img
+Superblock magic: abadf001
+Number of blocks: 10241
+Volume name: HW3_DISK_IMG1
+HW3_DISK_IMG1, mounted
+os_shell> os_shell> os_shell> rmdir: .: Invalid argument
+os_shell> os_shell> os_shell> rmdir: .: Invalid argument
+os_shell> rmdir: ..: Directory not empty
+os_shell> rmdir: os: Directory not empty
+os_shell> os_shell> os_shell> rmdir: os_grade.txt: Not a directory
+os_shell> ./	../	os_grade.txt	
+os_shell> os_shell> ./	../	os/	congratulation_on_successful_ls/	
+os_shell> os_shell> ./	../	os/	
+os_shell> root directory inode 0 name 
+>  1 .
+>  1 ..
+>  6 os
+>  directory inode 6 name os
+> >  6 .
+> >  1 ..
+> >  10 os_grade.txt
+> >  file inode 10 name os_grade.txt
+> > >  size 22 type 1 direct 11 
+
+os_shell> bye

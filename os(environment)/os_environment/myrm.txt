@@ -1,0 +1,30 @@
+OS SFS shell
+os_shell> Disk image: DISK1.img
+Superblock magic: abadf001
+Number of blocks: 10241
+Volume name: HW3_DISK_IMG1
+HW3_DISK_IMG1, mounted
+os_shell> os_shell> ./	../	hw3_submit/	os_grade.txt	
+os_shell> os_shell> ./	../	hw3_submit/	os_grade.txt	x1	
+os_shell> os_shell> ./	../	hw3_submit/	os_grade.txt	
+os_shell> os_shell> ./	../	hw3_submit/	
+os_shell> os_shell> rm: os: Is a directory
+os_shell> rm: x2: No such file or directory
+os_shell> ./	../	os/	congratulation_on_successful_ls/	
+os_shell> root directory inode 0 name 
+>  1 .
+>  1 ..
+>  6 os
+>  directory inode 6 name os
+> >  6 .
+> >  1 ..
+> >  8 hw3_submit
+> >  directory inode 8 name hw3_submit
+> > >  8 .
+> > >  6 ..
+>  12 congratulation_on_successful_ls
+>  directory inode 12 name congratulation_on_successful_ls
+> >  12 .
+> >  1 ..
+
+os_shell> bye

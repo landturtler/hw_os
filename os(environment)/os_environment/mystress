@@ -1,0 +1,8 @@
+OS SFS shell
+os_shell> Disk image: DISK1.img
+Superblock magic: abadf001
+Number of blocks: 10241
+Volume name: HW3_DISK_IMG1
+HW3_DISK_IMG1, mounted
+os_shell> mkdir: DIR: Already exists
+os_shell> os_shell> 
