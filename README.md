@@ -3,3 +3,5 @@
   - Virtual Memory Management Simulator 구현
   - Simple File System 구현
 - 사용 언어 : C
+
+- 코드 정리 필요
